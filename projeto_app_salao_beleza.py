@@ -105,3 +105,4 @@ while True:
 
     else:
         print("Opção inválida. Por favor, tente novamente.")
+        
